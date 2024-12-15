@@ -1,0 +1,8 @@
+* {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.container {
+    display: grid;
+}
